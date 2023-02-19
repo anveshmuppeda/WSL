@@ -2,5 +2,5 @@
 WSL info
 
 
-Connecting to WSL machine from gitbash
+#Connecting to WSL machine from gitbash
 #winpty wsl
